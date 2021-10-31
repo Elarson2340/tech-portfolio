@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Evan A. Larson', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
+    tagline: 'Blah, blah, blah',
     profilePhoto: 'img/profile.png',
     url: 'https://Elarson2340.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'tonya-melvin-bryant-ab92b855',
-        twitter: 'tonyamccu',
-        github: 'tamelvinbryant',
+        linkedin: 'N/A',
+        twitter: 'N/A',
+        github: 'Elarson2340',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
